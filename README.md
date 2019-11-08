@@ -1,6 +1,7 @@
-##CRUD created with
+## CRUD created with
 * NodeJS
 * Express
 
-$ Gilberto Rogel García
-$ Daniel Contreras
+
+    $ Gilberto Rogel
+    $ Daniel Contreras
